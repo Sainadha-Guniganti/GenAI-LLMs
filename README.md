@@ -20,5 +20,3 @@ This repository contains all the resources I used and created for the [Generativ
 * Model optimization for deployment
 * LLM application architecture
 
-
-You can view my course certificate [here](https://coursera.org/verify/CFQY6LPC25BV)
